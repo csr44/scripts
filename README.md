@@ -1,4 +1,4 @@
-# kody
+# skripty
 Na úložisku sú zakladné programy v rôznych jazykoch.
 
 V jazyku Python sú naprogramované algoritmy šifier ADFGVX, PLAYFAIR a RSA, ktorá je použitá v poslednom programe digitálny podpis.
